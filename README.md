@@ -1,4 +1,4 @@
-<img align="left" alt="" src="vulkanus.gif"/>
+<img align="right" alt="" src="vulkanus.gif"/>
 
 # Vulkanus
 
