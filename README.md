@@ -8,7 +8,7 @@
 
 [ASCII art](https://en.wikipedia.org/wiki/ASCII_art)
 
-Vulkanus is a small pedagogical project which aims to bring Vulkan-based 3D rendering to the console.
+Vulkanus is a small pedagogical project which aims to bring Vulkan-based 3D rendering to the command line.
 
 ## Setup
 
