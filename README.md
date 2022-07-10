@@ -1,6 +1,14 @@
-# vulkanus
+<img align="left" alt="" src="vulkanus.gif" height="150"/>
 
-Vulkanus is a small pedagogical project which aims to bring [Vulkan](https://en.wikipedia.org/wiki/Vulkan)-based 3D rendering to the console.
+# Vulkanus
+
+[Vulkan](https://en.wikipedia.org/wiki/Vulkan)
+
+[Vulcanus](https://en.wikipedia.org/wiki/Vulcan_(mythology))
+
+[ASCII art](https://en.wikipedia.org/wiki/ASCII_art)
+
+Vulkanus is a small pedagogical project which aims to bring Vulkan-based 3D rendering to the console.
 
 ## Setup
 
