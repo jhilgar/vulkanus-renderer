@@ -8,11 +8,11 @@
 
 [ASCII art](https://en.wikipedia.org/wiki/ASCII_art)
 
-Vulkanus is a small pedagogical project which aims to bring Vulkan-based 3D rendering to the command line.
+Vulkanus is a small pedagogical project which aims to bring Vulkan-based 3D rendering to the command line. It is currently in a minimum working example state.
 
 ## Setup
 
-Vulkanus is written in Rust. We prefer to use Anaconda (specifically miniconda) for managing the build environment.
+Vulkanus is written in Rust. We prefer to use Anaconda (specifically miniconda) for managing the build environment. You will also need [Microsoft Build Tools for Visual Studio (C++ desktop)](https://visualstudio.microsoft.com/downloads/) to compile a few Rust dependencies.
 
 From the cloned repository:
 
